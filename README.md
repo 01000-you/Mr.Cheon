@@ -5,7 +5,7 @@ Mission 4,5
 
 ##<mission.js> 소스코드
 
-<pre><code>
+
 var express = require('express');
 var app = express();
 var fs = require('fs');
@@ -87,11 +87,10 @@ app.listen(3000, function (){
 
 });
 
-</code></pre>
 
 ##<therm_m4,5.py> 소스코드
 
-<pre><code>
+
 import urllib
 import time
 import http.client
@@ -128,4 +127,3 @@ while True:
 
 	time.sleep(10)
 
-</code></pre>
