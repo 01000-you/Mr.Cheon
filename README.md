@@ -1,7 +1,5 @@
 ###mission #6 mysql에서 받아온 데이터를 이용하여 구글차트 그리기!
-
 ===========
-
 
 link:https://youtu.be/dXHTjha9VRk
 
