@@ -2,7 +2,11 @@
 mysql에서 받아온 데이터를 이용하여 구글차트 그리기!
 
 ===========
+
+
 link:https://youtu.be/dXHTjha9VRk
+
+
 ###mission 4,5 
 ###온도센서에서 온도를 측정한 후, Thingspeak차트를 생성하고 mysqrl에 데이터를 저장하기!
 link:https://youtu.be/S6LO8HcTUxo
